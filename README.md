@@ -10,6 +10,11 @@ The complete solution was built using Python, PostgreSQL, and Power BI.
 
 ---
 
+## Project Architecture Png
+
+<img width="1672" height="941" alt="ChatGPT Image Sep 4, 2026, 11_25_59 AM" src="https://github.com/user-attachments/assets/aaa5735d-fef7-45ff-ae5c-45d8d658b645" />
+
+
 ## Business Problem
 
 An e-grocery company manages many SKUs across multiple warehouses and suppliers.
