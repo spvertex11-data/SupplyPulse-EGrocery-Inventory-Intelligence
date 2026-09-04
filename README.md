@@ -187,23 +187,28 @@ The dashboard helps management:
 
 ### Executive Inventory Overview
 
-![Executive Dashboard](screenshots/Executive.png)
+<img width="1201" height="672" alt="Executive" src="https://github.com/user-attachments/assets/5aa6a961-6a5e-41ea-89b5-b808525c5c17" />
+
 
 ### Inventory Health & Risk
 
-![Inventory Dashboard](screenshots/Inventory.png)
+<img width="1197" height="672" alt="Inventory" src="https://github.com/user-attachments/assets/d9f90ef5-5faa-4173-a2ac-d87b49494834" />
+
 
 ### Supplier & Warehouse Performance
 
-![Warehouse Dashboard](screenshots/Warehouse.png)
+<img width="1197" height="667" alt="Warehouse" src="https://github.com/user-attachments/assets/a1e1a184-ed18-45d2-a713-7eb4875a0a6a" />
+
 
 ### Forecasting & Action Center
 
-![Forecasting Dashboard](screenshots/Forecasting.png)
+<img width="1197" height="676" alt="Forecasting" src="https://github.com/user-attachments/assets/64cc2d42-7777-444d-8534-6a3dacb4c9ea" />
+
 
 ### Power BI Data Model
 
-![Data Model](screenshots/Relationship.png)
+<img width="1680" height="678" alt="Relationship" src="https://github.com/user-attachments/assets/7ab189f9-a8d9-4737-8b50-9d5efb6fd1e3" />
+
 
 ---
 
