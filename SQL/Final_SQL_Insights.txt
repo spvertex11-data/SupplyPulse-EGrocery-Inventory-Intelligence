@@ -1,0 +1,62 @@
+SUPPLYPULSE - FINAL SQL BUSINESS INSIGHTS
+
+1. Overall Inventory Health
+2. Oversold Risk
+3. Safety Stock Risk
+4. Reorder Priority
+5. Expiry Financial Risk
+6. Warehouse Risk
+7. Supplier Performance
+8. Inventory Capital Concentration
+9. Forecast Accuracy
+10. Critical SKU Action List
+
+
+
+SUPPLYPULSE - FINAL SQL BUSINESS INSIGHTS
+
+1. OVERALL INVENTORY HEALTH
+Total SKUs:
+Total Inventory Value:
+SKUs Below Safety Stock:
+Oversold SKUs:
+SKUs Requiring Reorder Review:
+
+2. STOCKOUT RISK
+The analysis identified ______ SKUs below safety stock.
+The highest stockout risk was concentrated in ______.
+
+3. OVERSOLD INVENTORY
+______ SKUs had negative ATP / oversold conditions.
+This creates a risk of failed customer orders.
+
+4. REORDER PRIORITY
+The highest-priority reorder SKUs were mainly from ______ ABC class/category.
+These SKUs also had ______ lead times / low coverage.
+
+5. EXPIRY RISK
+Inventory worth $______ is expected to expire within 30 days.
+The highest expiry exposure was in ______ category/warehouse.
+
+6. WAREHOUSE PERFORMANCE
+______ warehouse had the highest inventory risk.
+Its major issue was ______.
+
+7. SUPPLIER PERFORMANCE
+______ supplier had the lowest on-time delivery rate of ______%.
+Its average lead time was ______ days.
+
+8. INVENTORY CAPITAL
+______ category held the highest inventory value of $______.
+______ ABC class represented the largest share of inventory capital.
+
+9. FORECAST PERFORMANCE
+______ category had the lowest forecast accuracy at ______%.
+This may increase overstock or stockout risk.
+
+10. MANAGEMENT ACTION
+The most critical SKUs require:
+- Immediate stock recovery
+- Urgent replenishment
+- Reorder review
+- Near-expiry clearance
